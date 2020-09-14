@@ -6,6 +6,7 @@ White and pink theme for KDE Plasma
 
 - Application Style: Breeze
 - Window Decorations: [Sierra Breeze](https://github.com/ishovkun/SierraBreeze)
+- Plasma Theme: [Arc Color](https://store.kde.org/p/1167639/)
 - Color Scheme: [Yuki Pink](https://store.kde.org/p/1262155/)
 - Icons: [Breeze Chameleon Light](https://store.kde.org/p/1298508/)
 - Cursors: Breeze
