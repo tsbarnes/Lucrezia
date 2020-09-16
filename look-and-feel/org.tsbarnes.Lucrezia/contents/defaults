@@ -7,6 +7,9 @@ ColorScheme=YukiPinkAlt-20190129071725
 [kdeglobals][KDE]
 widgetStyle=Breeze
 
+[kdeglobals][Icons]
+Theme=Breeze-Chameleon Light
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
