@@ -1292,7 +1292,15 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   font-weight: bold;
   height: 28px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2), 0 0 4px rgba(0, 0, 0, 0.3);
+}
+
+/* make panel float unless we're using Dash To Panel */
+#panel {
   margin: 10px 20px;
+}
+
+#panel.dashtopanelMainPanel {
+  margin: 0;
 }
 
 #panel:overview, #panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
