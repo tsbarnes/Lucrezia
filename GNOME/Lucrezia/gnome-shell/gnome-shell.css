@@ -928,7 +928,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   color: rgba(255, 255, 255, 0.85);
   background: none;
   background-color: transparent;
-/*  border-image: url("assets/menu-active.svg") 28 28 2 2;*/
+  border-image: url("assets/menu-active.svg") 28 28 2 2;
   transition-duration: 100ms;
   animation: none;
   box-shadow: none;
@@ -941,8 +941,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .popup-menu .popup-menu-item.selected {
   color: rgba(255, 255, 255, 0.85);
   background: none;
-  background-color: #ff41e0;
-  /*border-image: url("assets/menu-hover.svg") 28 28 2 2;*/
+  background-color: transparent;
+  border-image: url("assets/menu-hover.svg") 28 28 2 2;
   transition-duration: 0ms;
   animation: none;
   box-shadow: none;
@@ -952,7 +952,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   color: rgba(255, 255, 255, 0.85);
   background: none;
   background-color: transparent;
-  /*border-image: url("assets/menu-active.svg") 28 28 2 2;*/
+  border-image: url("assets/menu-active.svg") 28 28 2 2;
   transition-duration: 100ms;
   animation: none;
   box-shadow: none;
