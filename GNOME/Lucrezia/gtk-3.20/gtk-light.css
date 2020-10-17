@@ -1789,7 +1789,7 @@ headerbar {
   border-style: solid;
   border-color: #bababa;
   border-radius: 0;
-  background: #dedede linear-gradient(to top, #dedede, #dedede);
+  background: #ffffff linear-gradient(to top, #ffffff, #ffffff);
   box-shadow: inset 0 1px rgba(255, 255, 255, 0.8);
   /* Darken switchbuttons for headerbars. issue #1588 */
   /* hide the close button separator */ }
@@ -4734,8 +4734,8 @@ decoration {
   .solid-csd decoration {
     margin: 0;
     padding: 4px;
-    background-color: #c4c4c4;
-    border: solid 1px #c4c4c4;
+    background-color: #ffffff;
+    border: solid 1px #ffffff;
     border-radius: 0;
     box-shadow: inset 0 0 0 3px white, inset 0 1px rgba(255, 255, 255, 0.8); }
     .solid-csd decoration:backdrop {
