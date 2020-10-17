@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Lucrezia
+Type=X-GNOME-Metatheme
+Comment=Cute pink theme for GNOME
+Encoding=UTF-8
+GtkTheme=Lucrezia
+IconTheme=Yaru-Pink
+CursorTheme=Yaru-Pink
+CursorSize=24
