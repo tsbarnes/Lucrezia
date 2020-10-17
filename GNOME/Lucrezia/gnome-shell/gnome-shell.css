@@ -1286,7 +1286,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* TOP BAR */
 #panel {
-  background-color: rgba(241, 241, 241, 0.85);
+  background-color: rgba(255, 255, 255, 0.85);
   /* transition from solid to transparent */
   transition-duration: 250ms;
   font-weight: bold;
@@ -1295,7 +1295,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #panel:overview, #panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
-  background-color: rgba(241, 241, 241, 0.35);
+  background-color: rgba(255, 255, 255, 0.35);
 }
 
 #panel #panelLeft, #panel #panelCenter {
@@ -1304,7 +1304,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 #panel .panel-corner {
   -panel-corner-radius: 0;
-  -panel-corner-background-color: rgba(241, 241, 241, 0.85);
+  -panel-corner-background-color: rgba(255, 255, 255, 0.85);
   -panel-corner-border-width: 2px;
   -panel-corner-border-color: transparent;
 }
@@ -1424,7 +1424,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #panel.solid {
-  background-color: rgba(241, 241, 241, 0.85);
+  background-color: rgba(255, 255, 255, 0.85);
   /* transition from transparent to solid */
   transition-duration: 250ms;
   background-gradient-direction: none;
@@ -1436,7 +1436,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #panel.solid .panel-corner {
-  -panel-corner-background-color: rgba(241, 241, 241, 0.85);
+  -panel-corner-background-color: rgba(255, 255, 255, 0.85);
 }
 
 #panel.solid .panel-button {
@@ -3635,7 +3635,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #dashtodockContainer #dash {
-  background-color: rgba(241, 241, 241, 0.55);
+  background-color: rgba(255, 255, 255, 0.55);
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05);
 }
 
@@ -3648,11 +3648,11 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #dashtodockContainer.opaque #dash {
-  background-color: rgba(241, 241, 241, 0.55);
+  background-color: rgba(255, 255, 255, 0.55);
 }
 
 #dashtodockContainer.transparent #dash {
-  background-color: rgba(241, 241, 241, 0.55);
+  background-color: rgba(255, 255, 255, 0.55);
 }
 
 #dashtodockContainer:overview #dash {
@@ -3673,7 +3673,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #dashtodockContainer.extended:overview #dash, #dashtodockContainer.opaque.extended:overview #dash, #dashtodockContainer.transparent.extended:overview #dash {
-  background-color: rgba(241, 241, 241, 0.55);
+  background-color: rgba(255, 255, 255, 0.55);
 }
 
 #dashtodockContainer .app-well-app .overview-icon,
@@ -3683,7 +3683,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #dash:desktop {
-  background-color: rgba(241, 241, 241, 0.55);
+  background-color: rgba(255, 255, 255, 0.55);
 }
 
 .openweather-button, .openweather-button-action, .openweather-menu-button-container, .openweather-button-box {

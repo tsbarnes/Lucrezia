@@ -1,8 +1,8 @@
 # Lucrezia
 
-White and pink theme for KDE Plasma
+White and pink theme for KDE Plasma and GNOME
 
-## Requirements (theme)
+## Requirements (Plasma theme)
 
 - Application Style: Breeze
 - Window Decorations: [Sierra Breeze](https://github.com/ishovkun/SierraBreeze)
