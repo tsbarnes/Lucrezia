@@ -7,9 +7,9 @@ White and pink theme for KDE Plasma and GNOME
 - Application Style: Breeze
 - Window Decorations: [Sierra Breeze](https://github.com/ishovkun/SierraBreeze)
 - Plasma Theme: [Arc Color](https://store.kde.org/p/1167639/)
-- Color Scheme: [Yuki Pink](https://store.kde.org/p/1262155/)
-- Icons: [Breeze Chameleon Light](https://store.kde.org/p/1298508/)
-- Cursors: Breeze
+- Color Scheme: [Lucrezia](https://store.kde.org/p/1440313/)
+- Icons: [Lucrezia](https://store.kde.org/p/1434696/)
+- Cursors: [Lucrezia](https://store.kde.org/p/1434696/)
 
 ## Requirements (Latte Dock)
 
