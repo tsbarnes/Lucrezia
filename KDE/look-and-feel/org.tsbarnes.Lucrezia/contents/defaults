@@ -1,14 +1,14 @@
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=Lucrezia
 
 [kdeglobals][General]
-ColorScheme=YukiPinkAlt-20190129071725
+ColorScheme=Lucrezia
 
 [kdeglobals][KDE]
 widgetStyle=Breeze
 
 [kdeglobals][Icons]
-Theme=Breeze-Chameleon Light
+Theme=Lucrezia
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop

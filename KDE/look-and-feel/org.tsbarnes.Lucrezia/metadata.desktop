@@ -10,5 +10,5 @@ X-KDE-PluginInfo-Name=org.tsbarnes.Lucrezia
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/tsbarnes/Lucrezia
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1262155,kns://icons.knsrc/api.kde-look.org/1298508,kns://plasma-themes.knsrc/api.kde-look.org/1167639
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1440313,kns://colorschemes.knsrc/api.kde-look.org/1440314,kns://icons.knsrc/api.kde-look.org/1434696,kns://plasma-themes.knsrc/api.kde-look.org/1167639
 # kns://plasmoids.knsrc/api.kde-look.org/1274218,kns://plasmoids.knsrc/api.kde-look.org/1274975,kns://plasmoids.knsrc/api.kde-look.org/998901,kns://plasmoids.knsrc/api.kde-look.org/1365044,kns://plasmoids.knsrc/api.kde-look.org/1272871,kns://plasmoids.knsrc/api.kde-look.org/1317639
