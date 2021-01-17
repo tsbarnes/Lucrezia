@@ -2290,7 +2290,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 #dash {
   font-size: 1em;
   color: rgba(255, 255, 255, 0.85);
-  background-color: rgba(255, 255, 255, 0.15);
+  /*background-color: rgba(255, 255, 255, 0.15);*/
+  background-color: transparent;
   padding: 3px 0;
   border: none;
   border-left: 0px;
@@ -3644,8 +3645,9 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #dashtodockContainer #dash {
-  background-color: rgba(42, 42, 42, 0.65);
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05);
+  /*background-color: rgba(42, 42, 42, 0.65);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05);*/
+  background-color: transparent;
 }
 
 #dashtodockContainer #dash .app-well-app-running-dot {
@@ -3682,7 +3684,8 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #dashtodockContainer.extended:overview #dash, #dashtodockContainer.opaque.extended:overview #dash, #dashtodockContainer.transparent.extended:overview #dash {
-  background-color: rgba(42, 42, 42, 0.65);
+  /*background-color: rgba(42, 42, 42, 0.65);*/
+  background-color: transparent;
 }
 
 #dashtodockContainer .app-well-app .overview-icon,
