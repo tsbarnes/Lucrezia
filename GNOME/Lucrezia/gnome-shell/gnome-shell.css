@@ -3592,6 +3592,7 @@ StWidget.focused .app-well-app-running-dot {
 
 #dashtodockContainer {
   background: transparent;
+  border: none;
 }
 
 #dashtodockContainer .app-well-app-running-dot {
@@ -3648,6 +3649,7 @@ StWidget.focused .app-well-app-running-dot {
   /*background-color: rgba(255, 255, 255, 0.55);
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05);*/
   background-color: transparent;
+  border: none;
 }
 
 #dashtodockContainer #dash .app-well-app-running-dot {
@@ -3695,7 +3697,8 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #dash:desktop {
-  background-color: rgba(255, 255, 255, 0.55);
+  /*background-color: rgba(255, 255, 255, 0.55);*/
+  background: transparent;
 }
 
 .openweather-button, .openweather-button-action, .openweather-menu-button-container, .openweather-button-box {
